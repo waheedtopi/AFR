@@ -13,4 +13,4 @@
 
 
  ___This Tools is FREE___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-MHB-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923157267506)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-AFR-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923157267506)
