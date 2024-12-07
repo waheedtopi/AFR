@@ -5,8 +5,8 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf AFR
-- `git clone --depth=1 https://github.com/waheedtopi/AFR
+-  rm -rf AFR
+-  git clone --depth=1 https://github.com/waheedtopi/AFR
 - `cd AFR
 - `python AFR.py`
 
